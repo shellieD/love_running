@@ -36,9 +36,12 @@ h1, h2 {
 #menu, #logo {
     line-height: 75px;
 }
+#menu ul {
+    float: right;
+}
 
 #menu li {
-    float: right;
+    float: left;
     list-style-type: none;
     margin-right: 30px;
 }
